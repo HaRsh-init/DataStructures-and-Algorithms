@@ -13,4 +13,14 @@
 
 ## Basic Arrays & Stack
 
-- **Static Array — fixed size, contiguous memory:**  [Open interactive notes page](./dump/arrays_static_dynamic_stack.html).
+- **Static Array — fixed size, contiguous memory:**
+
+<iframe
+  src="../dump/arrays_static_dynamic_stack.html"
+  width="100%"
+  height="650"
+  style="border:1px solid #ccc; border-radius:8px;"
+  title="Static/Dynamic Array and Stack interactive view"
+></iframe>
+
+If the inline preview does not render in your markdown viewer, open it directly: [Open interactive notes page](../dump/arrays_static_dynamic_stack.html).
