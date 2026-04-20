@@ -1,4 +1,4 @@
-# 🧩 Arrays & Hashing
+# 🧩Arrays & Hashing
 
 ## 📦Prerequisites ✅
 
@@ -10,3 +10,7 @@
   - Know `d.get(key, default)` (common for counting).
 - **Common patterns:** frequency counting (anagram), seen set/map (two-sum), grouping by key (group anagrams).
 - **Tip:** if keys are limited (like lowercase `a-z`), a fixed array of size `26` can replace a hash map.
+
+## Basic Arrays & Stack
+
+- **Static Array — fixed size, contiguous memory:**  [Open interactive notes page](./dump/arrays_static_dynamic_stack.html).
